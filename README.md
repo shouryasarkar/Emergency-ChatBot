@@ -1,5 +1,5 @@
 # Emergency-ChatBot
-Implementation of a chat-bot using ML.Responds to queries about what to do during an emergency.  
+Implementation of a chat-bot using ML. Responds to queries about what to do during an emergency.  
 Required Libraries:   
 ->Tensorflow(ver < 2.8.0)  
 ->Nltk  
